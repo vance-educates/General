@@ -1,0 +1,213 @@
+InfoBegin
+InfoKey: Title
+InfoValue: CS Tax return for year 2021
+InfoBegin
+InfoKey: Producer
+InfoValue: UltraTax CS 2021; Creative Solutions, Inc.
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20220930170032-07'00'
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20220930135704
+PdfID0: dbe242af569dad1d6ea4b52e7db806b0
+PdfID1: 801bf308124e525897ce3d1b39ea403a
+NumberOfPages: 22
+BookmarkBegin
+BookmarkTitle: Transmittal Letter
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: Transmittal Letter
+BookmarkLevel: 1
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: Form 8879-F
+BookmarkLevel: 1
+BookmarkPageNumber: 3
+BookmarkBegin
+BookmarkTitle: Form 1041, Page 1
+BookmarkLevel: 1
+BookmarkPageNumber: 4
+BookmarkBegin
+BookmarkTitle: Form 1041, Page 2
+BookmarkLevel: 1
+BookmarkPageNumber: 5
+BookmarkBegin
+BookmarkTitle: Form 1041, Page 3
+BookmarkLevel: 1
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: Schedule I, Page 1
+BookmarkLevel: 1
+BookmarkPageNumber: 7
+BookmarkBegin
+BookmarkTitle: Schedule I, Page 2
+BookmarkLevel: 1
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: Schedule I, Page 3
+BookmarkLevel: 1
+BookmarkPageNumber: 9
+BookmarkBegin
+BookmarkTitle: Schedule D, Page 1
+BookmarkLevel: 1
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: Schedule D, Page 2
+BookmarkLevel: 1
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: Form 8949, Page 2
+BookmarkLevel: 1
+BookmarkPageNumber: 12
+BookmarkBegin
+BookmarkTitle: Form 8949, Page 2
+BookmarkLevel: 1
+BookmarkPageNumber: 13
+BookmarkBegin
+BookmarkTitle: Schedule K-1 - Marren Beck
+BookmarkLevel: 1
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: Schedule K-1 - Crysta Oswald
+BookmarkLevel: 1
+BookmarkPageNumber: 15
+BookmarkBegin
+BookmarkTitle: Schedule K-1 - Marilyn H Beck
+BookmarkLevel: 1
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: UT Form TC-41, Page 1
+BookmarkLevel: 1
+BookmarkPageNumber: 17
+BookmarkBegin
+BookmarkTitle: UT Form TC-41, Page 2
+BookmarkLevel: 1
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: UT Form TC-41K
+BookmarkLevel: 1
+BookmarkPageNumber: 19
+BookmarkBegin
+BookmarkTitle: UT Form TC-41K-1 - Marren Beck
+BookmarkLevel: 1
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: UT Form TC-41K-1 - Crysta Oswald
+BookmarkLevel: 1
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: UT Form TC-41K-1 - Marilyn H Beck
+BookmarkLevel: 1
+BookmarkPageNumber: 22
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 5
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 6
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 7
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 8
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 9
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 10
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 11
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 12
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 13
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 14
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 15
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 16
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 17
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 18
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 19
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 20
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 21
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
+PageMediaBegin
+PageMediaNumber: 22
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
